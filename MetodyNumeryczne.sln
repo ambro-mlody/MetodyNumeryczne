@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad8", "zad8\zad8.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad9", "zad9\zad9.vcxproj", "{B02F7BD6-3BB8-4912-B2D5-BC9F3481D865}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntHermit", "IntHermit\IntHermit.vcxproj", "{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{B02F7BD6-3BB8-4912-B2D5-BC9F3481D865}.Release|x64.Build.0 = Release|x64
 		{B02F7BD6-3BB8-4912-B2D5-BC9F3481D865}.Release|x86.ActiveCfg = Release|Win32
 		{B02F7BD6-3BB8-4912-B2D5-BC9F3481D865}.Release|x86.Build.0 = Release|Win32
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Debug|x64.ActiveCfg = Debug|x64
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Debug|x64.Build.0 = Debug|x64
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Debug|x86.Build.0 = Debug|Win32
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Release|x64.ActiveCfg = Release|x64
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Release|x64.Build.0 = Release|x64
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Release|x86.ActiveCfg = Release|Win32
+		{6B67DF2E-6CE7-478F-9D09-ADC79A7C2502}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
